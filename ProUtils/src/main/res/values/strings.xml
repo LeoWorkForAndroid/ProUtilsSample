@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ProUtils</string>
+    <string name="toolbarTitle">居中的标题</string>
+
+    <string name="permission_get_accounts_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_GET_ACCOUNTS</string>
+    <string name="permission_read_phone_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_READ_PHONE_STATE</string>
+    <string name="permission_call_phone_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_CALL_PHONE</string>
+    <string name="permission_camera_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_CAMERA</string>
+    <string name="permission_access_fine_location_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_ACCESS_FINE_LOCATION</string>
+    <string name="permission_access_coarse_location_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_ACCESS_COARSE_LOCATION</string>
+    <string name="permission_read_external_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_READ_EXTERNAL_STORAGE</string>
+    <string name="permission_white_external_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_WRITE_EXTERNAL_STORAGE</string>
+    <string name="permission_recode_audio_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_RECORD_AUDIO</string>
+
+
+    <string name="about_msg">
+Serial Port API sample v1.1\n
+\n
+This program is the sample application provided with project android-serialport-api.\n
+\n
+More information and bug report on [http://code.google.com/p/android-serialport-api]\n
+\n
+Copyright 2010-2011 Cedric Priscal\n
+\n
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at\n
+\n
+http://www.apache.org/licenses/LICENSE-2.0\n
+\n
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.\n
+	</string>
+    <string name="error_configuration">Please configure your serial port first.</string>
+    <string name="error_security">You do not have read/write permission to the serial
+		port.</string>
+    <string name="error_unknown">The serial port can not be opened for an unknown
+		reason.</string>
+
+
+</resources>

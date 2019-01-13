@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+  <!--Permission-->
+  <string-array name="permissions">
+    <item>@string/permission_recode_audio_hint</item>
+    <item>@string/permission_get_accounts_hint</item>
+    <item>@string/permission_read_phone_hint</item>
+    <item>@string/permission_call_phone_hint</item>
+    <item>@string/permission_camera_hint</item>
+    <item>@string/permission_access_fine_location_hint</item>
+    <item>@string/permission_access_coarse_location_hint</item>
+    <item>@string/permission_read_external_hint</item>
+    <item>@string/permission_white_external_hint</item>
+  </string-array>
+
+
+  <!--name为声明的属性集合，可以随意取，最好是和自定义View一样的名称，这样方便管理-->
+  <declare-styleable name="LikeView">
+    <!-- 声明属性，名称为like_number，取值是整形-->
+    <attr name="like_number" format="integer"/>
+  </declare-styleable>
+
+</resources>
